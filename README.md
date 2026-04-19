@@ -63,7 +63,7 @@ Cross-platform support is **incomplete and experimental**
 
 ```bash
 # Clone repo
-git clone <repo-url>
+https://github.com/yuhboiililtesti/JARVIS.git
 cd JARVIS
 
 # Install dependencies
